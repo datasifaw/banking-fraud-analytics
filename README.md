@@ -1,6 +1,5 @@
 ﻿# Banking Fraud Analytics
 
- 
 ## Project Overview
 
 Banking Fraud Analytics is a Data Engineering and Business
