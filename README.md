@@ -92,21 +92,6 @@ Sprint 1 - Data ingestion and preparation
 Sprint 2 - SQL analytics and KPIs
 Sprint 3 - Dashboard and final delivery
 
-## Git Workflow
-
-Main branch: main
-
-Feature branches follow this convention:
-
-feature/JIRA-KEY-description
-
-Example:
-
-feature/AZ-1-initialisation-projet
-
-Each development task is tracked in Jira.
-
-Commits and pushes are performed after validation.
 
 ## Cloud Cost Policy
 
