@@ -11,7 +11,6 @@ using Python, Google BigQuery Sandbox, SQL and Data Studio.
 
 ## Business Objectives
 
-
 - Analyze banking transaction volumes.
 - Calculate the fraud rate.
 - Analyze fraudulent transaction amounts.
