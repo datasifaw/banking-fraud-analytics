@@ -6,7 +6,6 @@
 Banking Fraud Analytics is a Data Engineering and Business
 Intelligence project focused on analyzing fraudulent credit
 card transactions.
-
 The objective is to build a complete analytics pipeline
 using Python, Google BigQuery Sandbox, SQL and Data Studio.
 
