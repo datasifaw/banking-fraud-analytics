@@ -108,7 +108,3 @@ No bank card or paid Cloud subscription is required.
 - Never commit local transaction CSV files.
 - Use anonymized public datasets only.
 - Keep local Python environments outside version control.
-
-## Project Status
-
-Sprint 0 - Initialization in progress.
