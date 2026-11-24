@@ -189,4 +189,4 @@ Le projet est organisé par étapes, avec développement sur branches dédiées,
 
 ---
 
-**Projet de portfolio Data Analyst — Python · SQL · BigQuery Sandbox · Data Studio · GitHub**
+**Projet de portfolio Data Analyst - Python · SQL · BigQuery Sandbox · Data Studio · GitHub**
